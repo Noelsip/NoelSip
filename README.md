@@ -12,7 +12,7 @@ I am a computer science student at the Kalimantan Institute of Technology.<br>Th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NoelSip&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSip&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 > ### "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
 > ### – Edsger Dijkstra
 
