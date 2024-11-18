@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student at the Kalimantan Institute of Technology.<br>This is where I store some of my project assignments during my studies.
+### I am a computer science student at the Kalimantan Institute of Technology.<br>This is where I store some of my project assignments during my studies.
 
 
 ## 🌐 Socials:
