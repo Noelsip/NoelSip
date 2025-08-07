@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- [![](https://visitcount.itsvg.in/api?id=NoelSip&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NoelSip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;Computer+Science+Student+at+ITK;Fullstack+Developer;Tech+Explorer+%26+Problem+Solver;Always+Learning+New+Things!&center=true&width=600&height=50&font=Fira%20Code&size=20&pause=1000&color=58A6FF"> -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;Computer+Science+Student+at+ITK;Fullstack+Developer;Tech+Explorer+%26+Problem+Solver;Always+Learning+New+Things!&center=true&width=600&height=50&font=Fira%20Code&size=20&pause=1000&color=58A6FF">
 
 </div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 🎓 **Informatic Student** at Kalimantan Institute of Technology  
 💻 **Passionate Developer** exploring fullstack development & emerging technologies  
