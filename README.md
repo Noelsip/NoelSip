@@ -137,18 +137,18 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Interested in collaborating?</b> I'm always excited to work on innovative projects and learn from amazing people!</em>
 
 ### 🐍 Contribution Activity
-<!-- GitHub Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg">
-</picture>
 
-<!-- Alternatif jika snake belum berfungsi -->
+<!-- Snake Animation (akan muncul setelah workflow berhasil) -->
+![Snake animation](https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg)
+
+<!-- Alternatif tampilan aktivitas -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSip&theme=tokyo_night" width="100%"/>
 </div>
 
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%"/>
 </div>
 ---
 
