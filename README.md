@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Header with gradient background effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1f6feb&height=120&section=header&text=Noel%20Ericson%20Rapael%20Sipayung&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Fullstack%20Developer&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1f6feb&height=120&section=header&text=Noel%20Ericson%20Rapael%20Sipayung&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Informatic%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50"/>
 
 <!-- Visitor count with modern styling -->
 [![](https://visitcount.itsvg.in/api?id=NoelSip&label=Profile%20Views&color=58A6FF&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Enhanced typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;💻+Computer+Science+Student+at+ITK;🌟+Fullstack+Developer+%26+Tech+Explorer;🎯+Problem+Solver+%26+Innovation+Seeker;📚+Always+Learning+New+Technologies!&center=true&width=700&height=60&font=JetBrains%20Mono&size=18&pause=1000&color=58A6FF&vCenter=true&multiline=true">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;💻+Informatic+Student+at+ITK;🌟+Web+Developer+%26+Tech+Explorer;🎯+Problem+Solver+%26+Innovation+Seeker;📚+Always+Learning+New+Technologies!&center=true&width=700&height=60&font=JetBrains%20Mono&size=18&pause=1000&color=58A6FF&vCenter=true&multiline=true">
 
 </div>
 
@@ -23,7 +23,7 @@
 <td align="center" width="50%">
 
 ### 👨‍💻 Developer Profile
-🎓 **Informatics Student** at Kalimantan Institute of Technology  
+🎓 **Informatic Student** at Kalimantan Institute of Technology  
 💻 **Passionate Developer** exploring fullstack development  
 🌱 **Lifelong Learner** curious about emerging technologies  
 🎯 **Goal-Oriented** building impactful solutions  
@@ -33,11 +33,10 @@
 <td align="center" width="50%">
 
 ### 🎯 Focus Areas
-- **Frontend Development** (React, Vue.js)
+- **Web Development** (React, Laravel)
 - **Backend Architecture** (Node.js, Python)
 - **Database Design** (SQL, NoSQL)
-- **Cloud Computing** (AWS, Azure)
-- **Mobile Development** (React Native)
+- **Mobile Development** (Flutter)
 
 </td>
 </tr>
@@ -68,7 +67,7 @@
 
 ### Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,spring,django,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,bootstrap,laravel,tailwindcss&theme=dark" />
 </p>
 
 ### Development Tools
@@ -78,12 +77,12 @@
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,vercel,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,vercel&theme=dark" />
 </p>
 
 ### Hardware & IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
 </p>
 
 </details>
