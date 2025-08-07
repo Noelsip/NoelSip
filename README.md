@@ -18,8 +18,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -140,10 +138,18 @@
 
 ### 🐍 Contribution Activity
 <!-- GitHub Contribution Snake -->
-![Snake animation](https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg">
+</picture>
 
+<!-- Alternatif jika snake belum berfungsi -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%"/>
 </div>
 
+</div>
 ---
 
 <div align="center">
