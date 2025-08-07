@@ -120,37 +120,6 @@
 
 ---
 
-<!-- Projects Showcase -->
-<div align="center">
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project Alpha
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoelSip&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/NoelSip/your-repo-name)
-
-**Tech Stack:** React, Node.js, MongoDB  
-**Description:** Full-stack web application with modern UI/UX
-
-</td>
-<td width="50%">
-
-### 🎯 Project Beta  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoelSip&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/NoelSip/another-repo)
-
-**Tech Stack:** Python, Django, PostgreSQL  
-**Description:** Scalable backend API with advanced features
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- Connect section with animations -->
 <div align="center">
