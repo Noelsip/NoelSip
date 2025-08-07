@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Header with gradient background effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1f6feb&height=120&section=header&text=Noel%20Ericson%20Rapael%20Sipayung&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Fullstack%20Developer&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1f6feb&height=120&section=header&text=Noel%20Ericson%20Rapael%20Sipayung&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Web%20Developer&descAlignY=60&descAlign=50"/>
 
 <!-- Visitor count with modern styling -->
 [![](https://visitcount.itsvg.in/api?id=NoelSip&label=Profile%20Views&color=58A6FF&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Enhanced typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;💻+Computer+Science+Student+at+ITK;🌟+Fullstack+Developer+%26+Tech+Explorer;🎯+Problem+Solver+%26+Innovation+Seeker;📚+Always+Learning+New+Technologies!&center=true&width=700&height=60&font=JetBrains%20Mono&size=18&pause=1000&color=58A6FF&vCenter=true&multiline=true">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;💻+Computer+Science+Student+at+ITK;🌟+Web+Developer+%26+Tech+Explorer;🎯+Problem+Solver+%26+Innovation+Seeker;📚+Always+Learning+New+Technologies!&center=true&width=700&height=60&font=JetBrains%20Mono&size=18&pause=1000&color=58A6FF&vCenter=true&multiline=true">
 
 </div>
 
@@ -25,7 +25,7 @@
 <td align="center" width="50%">
 
 ### 👨‍💻 Developer Profile
-🎓 **Computer Science Student** at Kalimantan Institute of Technology  
+🎓 **Informatics Student** at Kalimantan Institute of Technology  
 💻 **Passionate Developer** exploring fullstack development  
 🌱 **Lifelong Learner** curious about emerging technologies  
 🎯 **Goal-Oriented** building impactful solutions  
@@ -35,11 +35,11 @@
 <td align="center" width="50%">
 
 ### 🎯 Focus Areas
-- **Frontend Development** (React, Vue.js)
-- **Backend Architecture** (Node.js, Python)
+- **Web Development** (React, Laravel)
+- **Backend Architecture** (Node.js, Express.js, Laravel)
 - **Database Design** (SQL, NoSQL)
-- **Mobile Development** (Flutter, React Native)
-- **Cloud Computing** (AWS, Firebase)
+- **Mobile Development** (Flutter)
+- **Cloud Computing** (Firebase)
 
 </td>
 </tr>
@@ -54,37 +54,6 @@
 
 ---
 
-<!-- Current Projects Section -->
-<div align="center">
-
-## 🔥 What I'm Working On
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Current Projects
-- 📱 **HMIF Mobile App** — Student community platform
-- 🏪 **E-Commerce Backend** — Scalable API with Node.js
-- 🏠 **IoT Smart Home** — Arduino-based automation
-- 🎨 **Portfolio Website** — Showcasing my journey
-
-</td>
-<td width="50%">
-
-### 📖 Learning Path 2025
-- 🤖 **Machine Learning** — AI/ML with Python
-- ☁️ **Cloud Architecture** — AWS & Docker
-- 📱 **Mobile Development** — Flutter mastery
-- 🎨 **UI/UX Design** — Figma & Design Systems
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- Tech Stack with better organization -->
 <div align="center">
@@ -97,7 +66,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css&theme=dark" />
 </p>
 
 ### Frameworks & Libraries  
@@ -112,12 +81,12 @@
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,vercel,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,vercel,aws&theme=dark" />
 </p>
 
 ### Hardware & IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 </p>
 
 </details>
@@ -154,54 +123,6 @@
 
 ---
 
-<!-- Featured Projects -->
-<div align="center">
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 HMIF Mobile App
-**Tech Stack:** Flutter, Node.js, PostgreSQL  
-📱 Student community platform with event management  
-⭐ **Features:** Real-time chat, event scheduling, resource sharing
-
-</td>
-<td width="50%">
-
-### 🏪 E-Commerce Backend
-**Tech Stack:** Node.js, Express, MongoDB  
-🛒 Scalable REST API for e-commerce platform  
-⭐ **Features:** Payment gateway, inventory management, analytics
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏠 Smart Home IoT
-**Tech Stack:** Arduino, C++, Python  
-🏡 Home automation with sensor integration  
-⭐ **Features:** Remote control, energy monitoring, automation
-
-</td>
-<td width="50%">
-
-### 🎨 Portfolio Website
-**Tech Stack:** React, Tailwind CSS, Vercel  
-💼 Personal portfolio showcasing projects  
-⭐ **Features:** Responsive design, dark mode, animations
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- Connect section with animations -->
 <div align="center">
 
@@ -217,10 +138,9 @@
 ### 💌 Open for Opportunities!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Interested in collaborating?</b> I'm always excited to work on innovative projects and learn from amazing people!</em>
 
-### 🎯 Let's Build Something Amazing Together!
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+### 🐍 Contribution Activity
+<!-- GitHub Contribution Snake -->
+![Snake animation](https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg)
 
 </div>
 
@@ -228,17 +148,7 @@
 
 <div align="center">
 
-<!-- Footer with gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58A6FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=⭐%20Don't%20forget%20to%20star%20some%20repositories%20if%20you%20find%20them%20interesting!&descAlignY=90&descAlign=50"/>
-
 *"The future belongs to those who believe in the beauty of their dreams."* – Eleanor Roosevelt
-
-### 🌟 Fun Facts About Me
-- 🎮 Gaming enthusiast who loves strategy games
-- 📚 Always reading tech blogs and documentation
-- ☕ Coffee-powered developer (definitely not tea!)
-- 🎵 Coding with lo-fi music in the background
-- 🌱 Plant parent trying to keep my code AND plants alive
 
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=NoelSip&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
