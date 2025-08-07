@@ -37,6 +37,8 @@ This is where I store some of my project assignments during my studies.
 ![](https://github-readme-stats.vercel.app/api?username=NoelSip&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NoelSip&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSip&theme=blue_navy&hide_border=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSip&theme=github_dark)
+
 
 ## 🏆 Total Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=NoelSip&limit=5&theme=dark&combine_all_yearly_contributions=true)
