@@ -52,7 +52,6 @@
 
 ---
 
-
 <!-- Tech Stack with better organization -->
 <div align="center">
 
@@ -136,24 +135,48 @@
 ### 💌 Open for Opportunities!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Interested in collaborating?</b> I'm always excited to work on innovative projects and learn from amazing people!</em>
 
-### 🐍 Contribution Activity
-
-<!-- Snake Animation (akan muncul setelah workflow berhasil) -->
-![Snake animation](https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg)
-
-<!-- Alternatif yang langsung bekerja -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoelSip&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
 </div>
 
+---
+
+<!-- Contribution Activity Section -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&custom_title=NoelSip's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%"/>
+
+## 🐍 Contribution Activity
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- Additional Contribution Stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&custom_title=NoelSip's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%"/>
+
 </div>
+
 ---
 
 <div align="center">
 
+<!-- Footer with gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58A6FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=⭐%20Don't%20forget%20to%20star%20some%20repositories!&descAlignY=90&descAlign=50"/>
+
+### 🌟 Fun Facts About Me
+- ☕ Coffee-powered developer
+- 🎮 Gaming enthusiast in my free time
+- 📚 Always learning something new
+- 🌱 Passionate about clean and efficient code
+- 🎯 Love solving complex problems
+
+<br/>
+
 *"The future belongs to those who believe in the beauty of their dreams."* – Eleanor Roosevelt
+
+<br/>
 
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=NoelSip&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
