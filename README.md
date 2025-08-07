@@ -1,8 +1,8 @@
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=NoelSip&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=NoelSip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;Computer+Science+Student+at+ITK;Fullstack+Developer;Tech+Explorer+%26+Problem+Solver;Always+Learning+New+Things!&center=true&width=600&height=50&font=Fira%20Code&size=20&pause=1000&color=58A6FF">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Noel+Ericson+Rapael+Sipayung!;Computer+Science+Student+at+ITK;Fullstack+Developer;Tech+Explorer+%26+Problem+Solver;Always+Learning+New+Things!&center=true&width=600&height=50&font=Fira%20Code&size=20&pause=1000&color=58A6FF"> -->
 
 </div>
 
@@ -24,72 +24,6 @@
 
 <div align="center">
 
-<!-- ## 🔥 What I'm Up To
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛠️ Current Projects
-- 🚀 **HMIF App** — Community platform for Informatics students
-- 🏪 **POS Backend System** — Scalable backend with Node.js + PostgreSQL
-- 🏠 **Smart Home Simulation** — IoT project with JavaFX & sensors
-- 📱 **Personal Portfolio** — Showcasing my development journey
-
-</td>
-<td width="50%">
-
-### 📖 Learning Journey
-- 📱 **Flutter & Dart** — Cross-platform mobile development
-- 🤖 **AI/ML** — TensorFlow, Scikit-learn, PyTorch
-- ☁️ **DevOps** — Docker, CI/CD, AWS/GCP
-- 🎨 **UI/UX Design** — Figma, Design Systems
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎯 2025 Roadmap
-
-</div>
-
-```mermaid
-gantt
-    title My 2025 Development Goals
-    dateFormat  YYYY-MM-DD
-    section Skills
-    Master Flutter Development    :2025-01-01, 2025-04-30
-    Deep Dive into AI/ML         :2025-03-01, 2025-08-31
-    Learn Cloud Architecture     :2025-06-01, 2025-12-31
-    section Projects
-    Complete HMIF App            :2025-01-01, 2025-05-31
-    Build 3 Open Source Contrib  :2025-02-01, 2025-10-31
-    Launch Personal Portfolio    :done, 2025-01-01, 2025-03-31
-```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|:----------:|:----------------|:---------------|:--------:|
-| **HMIF App** | Mobile platform connecting ITK Informatics community with events, resources, and networking | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [🔗 View](#) |
-| **Smart Home IoT** | JavaFX-based home automation simulation with real sensor integration | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-FF6B6B?style=flat&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | [🔗 View](#) |
-| **TandaiHoax** | Health information verification platform using trusted medical sources | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [🔗 View](#) |
-
-</div>
-
----
-
-<div align="center"> -->
 
 ## 🛠️ Tech Arsenal
 
