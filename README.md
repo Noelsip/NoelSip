@@ -141,14 +141,13 @@
 <!-- Snake Animation (akan muncul setelah workflow berhasil) -->
 ![Snake animation](https://raw.githubusercontent.com/NoelSip/NoelSip/output/snake.svg)
 
-<!-- Alternatif tampilan aktivitas -->
+<!-- Alternatif yang langsung bekerja -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSip&theme=tokyo_night" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoelSip&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
 </div>
 
-<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSip&custom_title=NoelSip's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 ---
 
